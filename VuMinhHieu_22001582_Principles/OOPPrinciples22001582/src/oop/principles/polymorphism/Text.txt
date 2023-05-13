@@ -1,0 +1,3 @@
+Drawing a square
+Drawing a circle
+Drawing a triangle

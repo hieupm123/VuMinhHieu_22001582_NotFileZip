@@ -1,0 +1,42 @@
+----------Test Array Data Set----------
+Tap du lieu la:
+10.0 10.0 80.0 90.0 100.0 10.0 20.0 30.0 40.0 50.0
+Co mau la: 10
+Max la: 100.0
+Min la: 100.0
+Ki vong la: 44.0
+Phuong sai la: 1084.0
+Rank la:
+2.5 2.5 8.0 9.0 10.0 2.5 4.0 5.0 6.0 7.0
+Trung vi la: 35.0
+Tap du lieu la:
+10.0 80.0 90.0 100.0 10.0 20.0 30.0 40.0
+Co mau la: 8
+Max la: 100.0
+Min la: 100.0
+Ki vong la: 47.5
+Phuong sai la: 1193.75
+Rank la:
+1.5 6.0 7.0 8.0 1.5 3.0 4.0 5.0
+Trung vi la: 35.0
+----------Test List Data Set----------
+Tap du lieu la:
+10.0 10.0 80.0 90.0 100.0 10.0 20.0 30.0 40.0 50.0
+Co mau la: 10
+Max la: 100.0
+Min la: 100.0
+Ki vong la: 44.0
+Phuong sai la: 1084.0
+Rank la:
+2.5 2.5 8.0 9.0 10.0 2.5 4.0 5.0 6.0 7.0
+Trung vi la: 35.0
+Tap du lieu la:
+10.0 80.0 90.0 100.0 10.0 20.0 30.0 40.0
+Co mau la: 8
+Max la: 100.0
+Min la: 100.0
+Ki vong la: 47.5
+Phuong sai la: 1193.75
+Rank la:
+1.5 6.0 7.0 8.0 1.5 3.0 4.0 5.0
+Trung vi la: 35.0
